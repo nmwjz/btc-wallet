@@ -9,7 +9,7 @@ It can search for any bitwallet with transactions.
 
 If you donate two bitcoins, I will be very happy with the special technical support.
 
-If you provide us green card and offer，I will be happy to give you the all source code.
+If you provide US green card and offer，I will be happy to give you the all source code.
 
 ==========compile manual========
 
