@@ -10,7 +10,7 @@ If you donate two bitcoins, I will be very glad with the special technical suppo
 
 If you provide US green card and offer，I will be glad to give you the all source code and close this project. And then help you build a complete running environment.
 
-Contact US:nmwjz@126.com
+Contact us:nmwjz@126.com
 
 ==========compile manual========
 1. Download OpenCL SDK from NVIDIA,AMD or Intel.
