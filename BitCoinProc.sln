@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HttpClient", "HttpClient\HttpClient.vcxproj", "{06132E5B-C300-47EF-B56B-1020C41C4B71}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniJSON", "MiniJSON\MiniJSON.vcxproj", "{F466E79D-9A60-479F-959B-821DFF9697FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WalletFind", "WalletFind\WalletFind.vcxproj", "{E36F4FEF-CCEF-4687-9997-2746A978F30B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WalletDataTest", "WalletDataTest\WalletDataTest.vcxproj", "{9A960411-4917-4875-94C3-7943A08B272B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Debug|x64.ActiveCfg = Debug|x64
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Debug|x64.Build.0 = Debug|x64
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Debug|x86.ActiveCfg = Debug|Win32
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Debug|x86.Build.0 = Debug|Win32
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Release|x64.ActiveCfg = Release|x64
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Release|x64.Build.0 = Release|x64
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Release|x86.ActiveCfg = Release|Win32
+		{06132E5B-C300-47EF-B56B-1020C41C4B71}.Release|x86.Build.0 = Release|Win32
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Debug|x64.ActiveCfg = Debug|x64
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Debug|x64.Build.0 = Debug|x64
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Debug|x86.Build.0 = Debug|Win32
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Release|x64.ActiveCfg = Release|x64
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Release|x64.Build.0 = Release|x64
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Release|x86.ActiveCfg = Release|Win32
+		{F466E79D-9A60-479F-959B-821DFF9697FE}.Release|x86.Build.0 = Release|Win32
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Debug|x64.ActiveCfg = Debug|x64
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Debug|x64.Build.0 = Debug|x64
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Debug|x86.Build.0 = Debug|Win32
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Release|x64.ActiveCfg = Release|x64
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Release|x64.Build.0 = Release|x64
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Release|x86.ActiveCfg = Release|Win32
+		{E36F4FEF-CCEF-4687-9997-2746A978F30B}.Release|x86.Build.0 = Release|Win32
+		{9A960411-4917-4875-94C3-7943A08B272B}.Debug|x64.ActiveCfg = Debug|x64
+		{9A960411-4917-4875-94C3-7943A08B272B}.Debug|x64.Build.0 = Debug|x64
+		{9A960411-4917-4875-94C3-7943A08B272B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A960411-4917-4875-94C3-7943A08B272B}.Debug|x86.Build.0 = Debug|Win32
+		{9A960411-4917-4875-94C3-7943A08B272B}.Release|x64.ActiveCfg = Release|x64
+		{9A960411-4917-4875-94C3-7943A08B272B}.Release|x64.Build.0 = Release|x64
+		{9A960411-4917-4875-94C3-7943A08B272B}.Release|x86.ActiveCfg = Release|Win32
+		{9A960411-4917-4875-94C3-7943A08B272B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F66861C-EE93-4B64-ACF2-38422E8599A8}
+	EndGlobalSection
+EndGlobal
