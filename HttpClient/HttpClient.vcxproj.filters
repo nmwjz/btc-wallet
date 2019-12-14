@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="base64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="file_reader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="file_writer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="global_defs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_client.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_delegate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_header_parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_pool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_post_file.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_request.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_response.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_response_receiver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="http_thread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="proxy_config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="proxy_socket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="socket_helper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="standard_header.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="streaming_socket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="thread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="url_parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="file_reader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="file_writer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_client.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_header_parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_pool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_post_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_request.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_response.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_response_receiver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="http_thread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="proxy_socket .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="socket_helper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="streaming_socket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="url_parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
